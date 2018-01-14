@@ -4,7 +4,7 @@ INSTRUCTIONS
 
 1. Download solution
 
-2. Download the Nuget packages
+2. Download the Nuget packages (Newtonsoft.Json)
 
 3. Build solution
 
