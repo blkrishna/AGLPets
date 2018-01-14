@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio. 
+################################################################################
+
+/packages
+/AGL.Pets.Common/bin/Debug
+/AGL.Pets.Common/obj/Debug
+/AGL.Pets.Domain/bin/Debug
+/AGL.Pets.Domain/obj/Debug
+/AGL.Pets.UnitTests/bin/Debug
+/AGL.Pets.UnitTests/obj/Debug
+/AGL.Pets.Utility/bin/Debug
+/AGL.Pets.Utility/obj/Debug
+/.vs
+
